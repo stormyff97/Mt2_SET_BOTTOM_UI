@@ -30,4 +30,4 @@ Function Usage Example:
         
 Explanation: This way the function 				self.wheelbtn.SetBottom()    will set bottom the ui button (wheelbtn), another good way to use this function is to make a button that hides ui objects for example.
 
-[Video Example]([LINK_COMPLETO_DEL_VIDEO](https://youtu.be/cotrHOYmnqI))
+[Video Example]((https://youtu.be/cotrHOYmnqI))
