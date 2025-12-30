@@ -1,3 +1,5 @@
+DO NOT FORGET TO DEFINE "SET_BOTTOM_UI" into locale_inc.h
+
 Flag Usage Example:
 
 		if app.DESTINY_WHEEL:
