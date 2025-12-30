@@ -1,4 +1,5 @@
 Flag Usage Example:
+
 		if app.DESTINY_WHEEL:
 			self.wheelbtn = ui.Button()
 			self.wheelbtn.AddFlag("float") 
@@ -13,6 +14,7 @@ Explanation: This way the flag				self.wheelbtn.AddFlag("no_top_on_click") will 
 
 
 Function Usage Example:
+
 	if app.DESTINY_WHEEL:
 		def OpenDestinyWheel(self):
 			self.LoadFirstOpening()
